@@ -1,4 +1,4 @@
-# Python-
+# Python数据分析课设
 得分100/100，包含三次实验，数据集来自kaggle/天池。
 对于YouTube评论进行数据分析。
 数据来源：https://www.kaggle.com/datasnaek/youtube
